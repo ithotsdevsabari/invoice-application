@@ -236,6 +236,8 @@ const PreviewCreateMode: React.FC<PreviewCreateModeProps> = ({
             </table>
           </div>
         </div>
+
+        
       </div>
     </section>
   );
